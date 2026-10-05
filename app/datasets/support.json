@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "question": "How do I reset my password?",
+    "expected_answer": "Go to Settings, open Security, and select Reset Password."
+  },
+  {
+    "id": "2",
+    "question": "How can I contact support?",
+    "expected_answer": "You can contact support through the Help Center."
+  },
+  {
+    "id": "3",
+    "question": "Can I change my email address?",
+    "expected_answer": "Yes, you can change your email address from Account Settings."
+  },
+  {
+    "id": "4",
+    "question": "How do I cancel my subscription?",
+    "expected_answer": "Go to Account Settings, open Subscription, and select Cancel Subscription."
+  },
+  {
+    "id": "5",
+    "question": "Where can I see my payment history?",
+    "expected_answer": "You can view your payment history in the Billing section of your account."
+  }
+]
